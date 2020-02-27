@@ -1,0 +1,22 @@
+    {
+        "_id": "c-05",
+        "_parentId": "b-05",
+        "_type": "component",
+        "_component": "graphicwithlink",
+        "_classes": "",
+        "_layout": "left",
+        "title": "Here is a graphic object with an external link",
+        "displayTitle": "Here is a graphic object with an external link",
+        "body": "Hi everybody!",
+        "instruction": "",
+        "_graphic": {
+            "alt": "Placeholder graphic",
+            "large": "https://github.com/adaptlearning/documentation/raw/master/04_wiki_assets/adapt_framework/adapt-logo_208x200.gif",
+            "small": "http://minionslovebananas.com/images/check-in-minion.jpg",
+            "attribution": "Copyright © 2020",
+            "url": "https://www.adaptlearning.org"
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+    }

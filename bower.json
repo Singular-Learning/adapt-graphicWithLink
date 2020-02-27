@@ -1,0 +1,21 @@
+{
+  "name": "adapt-graphicWithLink",
+  "version": "1.0.0",
+  "framework": ">=5",
+  "homepage": "https://github.com/Singular-Learning/adapt-graphicWithLink",
+  "repository": "git://github.com/Singular-Learning/adapt-graphicWithLink.git",
+  "issues": "https://github.com/Singular-Learning/adapt-graphicWithLink/issues/",
+  "component" : "graphicwithlink",
+  "displayName" : "Graphic With Link",
+  "description": "Graphic component which dynamically displays small and large images of different resolutions based upon device width and linked to an external url",
+  "main": "/js/adapt-graphicWithLink.js",
+  "assetFields" : [
+    "_graphic.small",
+    "_graphic.large"
+  ],
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPL-3.0"
+}
